@@ -1,5 +1,8 @@
 # Notes web application
 
+### Node.js Version
+`v16.14.2`
+
 ### Fist Installation
 `npm init --y`
 
@@ -71,6 +74,11 @@ Catatan: Pastikan Anda memasang nanoid dengan versi 3.x.x. Karena jika menggunak
 
 ### Url notes Application
 
+
+#### Front-end
 `http://notesapp-v1.dicodingacademy.com`
+
+#### Public ip
+`http://54.151.191.180:5000/notes`
 
 ---
