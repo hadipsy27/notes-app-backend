@@ -75,10 +75,13 @@ Catatan: Pastikan Anda memasang nanoid dengan versi 3.x.x. Karena jika menggunak
 ### Url notes Application
 
 
-#### Front-end
-`http://notesapp-v1.dicodingacademy.com`
+#### Client app
+`http://notesapp-v1.dicodingacademy.com/`
 
 #### Public ip
+`http://54.151.191.180:5000`
+
+#### JSON
 `http://54.151.191.180:5000/notes`
 
 ---
